@@ -205,7 +205,8 @@ This web app was developed using `SQLite` to store Hiit data. This is because SQ
 
 ## AI
 
-- I utilised Ai to generate appropriate comments for my functions.
+- I utilised Ai to generate appropriate comments for my functions
+ChatGPT OpenAI. (2024)
 
 
 
